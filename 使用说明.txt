@@ -1,0 +1,4 @@
+1.双击iview453_x64文件，将iview453_x64压缩包解压至D:\iview453_x64，双击打开i_view64.exe
+2.设置源目录和目的目录，替换掉tif to jpg.bat中的D:\temp
+3.双击tif to jpg.bat  等待执行完成
+4.转换完成，请查看D:\temp文件夹
